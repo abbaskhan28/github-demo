@@ -1,3 +1,3 @@
 # github-demo
-I am going too learn Github
-Author. Abbas Khan
+I am going too learn Github <br/>
+Author - Abbas Khan
